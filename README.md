@@ -2,4 +2,4 @@
 my version of whatsapp
 
 # View Live
-whatsappa.herokuapp.com
+https://whatsappa.herokuapp.com/
